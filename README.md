@@ -9,5 +9,5 @@ Responsible for creating [campusinterview.ch](https://campusinterview.ch), a Web
 * 1000 new annual users.
 
 <p align="center">
-  <img width="600" src="assets/ci.gif">
+  <img width="600" src="assets/ci_overview.gif">
 </p>
