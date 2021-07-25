@@ -18,5 +18,5 @@ Responsible for creating [campusinterview.ch](https://campusinterview.ch), a Web
 * Developed a simple and intuitive frontend with java.
 
 <p align="center">
-  <img width="600" src="assets/andoid_app.png">
+  <img width="600" src="assets/android_app.png">
 </p>
