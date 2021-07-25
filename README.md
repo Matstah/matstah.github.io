@@ -11,3 +11,12 @@ Responsible for creating [campusinterview.ch](https://campusinterview.ch), a Web
 <p align="center">
   <img width="600" src="assets/ci_overview.gif">
 </p>
+
+
+## Android App to control a portable electromagnetic exposimeter
+* Group project during my Bachelors.
+* Developed a simple and intuitive frontend with java.
+
+<p align="center">
+  <img width="600" src="assets/andoid_app.png">
+</p>
