@@ -13,6 +13,14 @@ Responsible for creating [campusinterview.ch](https://campusinterview.ch), a Web
 </p>
 
 
+## Advanced Stateful Firewall using P4 (SDN)
+Today's "next-generation" firewalls provide enhanced protection by combining information from multiple layers. However, such tasks are usually implemented in the control plane and massively degrade the network throughput. By using p4, we implemented a stateful firewall, extended with SYN-flood attack prevention, deep packet inspection, port knocking, and white-/ blacklists. We showed that parts of a firewall controller can be moved to the hardware and could therefore run at the speed of modern switches.
+
+<p align="center">
+  <img width="600" src="assets/firewall.png">
+</p>
+
+
 ## Android App to control a portable electromagnetic exposimeter
 * Group project during my Bachelors.
 * Developed a simple and intuitive frontend with java.
