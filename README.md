@@ -21,7 +21,20 @@ Today's "next-generation" firewalls provide enhanced protection by combining inf
 </p>
 
 
-## Android App to control a portable electromagnetic exposimeter
+## Semester Thesis 2
+todo
+
+## Semester Thesis 1
+todo
+
+## Windows App
+Windows App to visualize and manage data collected by a electromagnetic exposimeter.
+<p align="center">
+  <img width="600" src="assets/radaranalytics.png">
+</p>
+
+## Android App
+Android App to control a portable electromagnetic exposimeter.
 * Group project during my Bachelors.
 * Developed a simple and intuitive frontend with java.
 
