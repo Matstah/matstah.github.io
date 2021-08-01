@@ -26,5 +26,5 @@ Today's "next-generation" firewalls provide enhanced protection by combining inf
 * Developed a simple and intuitive frontend with java.
 
 <p align="center">
-  <img width="600" src="assets/andoid_app.png">
+  <img width="600" src="assets/android_app.png">
 </p>
