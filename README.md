@@ -48,7 +48,7 @@ Android App to control a portable electromagnetic exposimeter.
 
 
 ## coding exercises
-* (Classy computer vision stuff)[https://github.com/Matstah/Exercises/tree/main/classy_computer_vision]
+* [Classy computer vision stuff](https://github.com/Matstah/Exercises/tree/main/classy_computer_vision)
 * A-Star
 * Graph algo
 * Search algos / Image retrieval algos
