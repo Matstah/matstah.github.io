@@ -24,8 +24,16 @@ Today's "next-generation" firewalls provide enhanced protection by combining inf
 ## Semester Thesis 2
 todo
 
-## Semester Thesis 1
-todo
+## Network Performance Obfuscation (Semester Thesis)
+Obfuscating network topology or performance makes it harder for an attacker to draw conclusions about the network. My semester thesis focused on detecting performance mesuring traffic and to obfuscate it to specific performance values.
+
+We *obfuscated latency, bandwidth and packet loss* by utilizing recent advances in Software Defined Networks ([P4](https://www.sigcomm.org/sites/default/files/ccr/papers/2014/July/0000000-0000004.pdf)).
+
+<p align="center">
+  <img width="600" src="assets/performance_obfuscation.png">
+</p>
+
+
 
 ## Windows App
 Windows App to visualize and manage data collected by a electromagnetic exposimeter.
