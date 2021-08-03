@@ -14,7 +14,7 @@ Responsible for creating [campusinterview.ch](https://campusinterview.ch), a Web
 
 
 ## Advanced Stateful Firewall using P4 (SDN)
-Today's "next-generation" firewalls provide enhanced protection by combining information from multiple layers. However, such tasks are usually implemented in the control plane and massively degrade the network throughput. By using p4, we implemented a stateful firewall, extended with SYN-flood attack prevention, deep packet inspection, port knocking, and white-/ blacklists. We showed that parts of a firewall controller can be moved to the hardware and could therefore run at the speed of modern switches. [Code](https://github.com/Matstah/atcn_project)
+Today's "next-generation" firewalls provide enhanced protection by combining information from multiple layers. However, such tasks are usually implemented in the control plane and massively degrade the network throughput. By using p4, we implemented a stateful firewall, extended with SYN-flood attack prevention, deep packet inspection, port knocking, and white-/ blacklists. We showed that parts of a firewall controller can be moved to the hardware and could therefore run at the speed of modern switches. [Repo](https://github.com/Matstah/atcn_project)
 
 <p align="center">
   <img width="600" src="assets/firewall.png">
@@ -24,7 +24,7 @@ Today's "next-generation" firewalls provide enhanced protection by combining inf
 ## Network Performance Obfuscation (Semester Thesis)
 Obfuscating network topology or performance makes it harder for an attacker to draw conclusions about the network. My semester thesis focused on detecting performance mesuring traffic and to obfuscate it to specific performance values.
 
-We **obfuscated latency, bandwidth and packet loss** by utilizing recent advances in Software Defined Networks ([P4](https://www.sigcomm.org/sites/default/files/ccr/papers/2014/July/0000000-0000004.pdf)). [Code](https://github.com/Matstah/network_performance_obfuscation_sa)
+We **obfuscated latency, bandwidth and packet loss** by utilizing recent advances in Software Defined Networks ([P4](https://www.sigcomm.org/sites/default/files/ccr/papers/2014/July/0000000-0000004.pdf)). [Repo](https://github.com/Matstah/network_performance_obfuscation_sa)
 
 <p align="center">
   <img width="600" src="assets/performance_obfuscation.png">
