@@ -27,6 +27,14 @@ todo
 ## Semester Thesis 1
 todo
 
+## coding exercises
+* A-Star
+* Graph algo
+* Search algos / Image retrieval algos
+
+## Computer Vision stuff
+exercises from DTU
+
 ## Windows App
 Windows App to visualize and manage data collected by a electromagnetic exposimeter.
 <p align="center">
