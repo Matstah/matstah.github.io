@@ -1,4 +1,4 @@
-I am a Masters Student at [ETH Zurich](https://ethz.ch/de.html) in Information Technology and Electrical Engineering. I like coding, network and vision stuff.
+I was a Masters Student at [ETH Zurich](https://ethz.ch/de.html) in Information Technology and Electrical Engineering. I like coding, network and vision stuff. Here are some of my university projects.
 
 These are some of my projects.
 ## Product Managment
